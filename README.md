@@ -21,6 +21,11 @@ This repository will contain all the related content for my internship projects,
 - **Technologies Used**: Python, Pandas, Matplotlib, Seaborn, Scikit-learn
 - **Objective**: To understand and implement regression modeling techniques.
 
+### Project 2: Unemployment Analysis
+**Description**: This project involves analyzing unemployment data to identify trends and patterns using various data analysis techniques.
+**Technologies Used**: Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
+**Objective**: The objective of this project is to gain insights into unemployment trends, identify key factors affecting unemployment rates, and visualize the data to better understand the underlying patterns and relationships.
+
 
 
 
