@@ -12,19 +12,19 @@ This repository will contain all the related content for my internship projects,
 ## Projects
 
 ### Project 1: Iris Flower Classification
-**Description**: This project aims to classify Iris flowers into three species based on the dimensions of their sepals and petals.
+- **Description**: This project aims to classify Iris flowers into three species based on the dimensions of their sepals and petals.
 - **Technologies Used**: Python, Pandas, Matplotlib, Seaborn, Scikit-learn
 - **Objective**: To apply and hone skills in data analysis, visualization, and modeling.
 
 ### Project 2: Car Price Prediction
-**Description**: Predicting the price of used cars based on various attributes such as age, kilometers driven, fuel type, and more.
+- **Description**: Predicting the price of used cars based on various attributes such as age, kilometers driven, fuel type, and more.
 - **Technologies Used**: Python, Pandas, Matplotlib, Seaborn, Scikit-learn
 - **Objective**: To understand and implement regression modeling techniques.
 
 ### Project 2: Unemployment Analysis
-**Description**: This project involves analyzing unemployment data to identify trends and patterns using various data analysis techniques.
-**Technologies Used**: Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
-**Objective**: The objective of this project is to gain insights into unemployment trends, identify key factors affecting unemployment rates, and visualize the data to better understand the underlying patterns and relationships.
+- **Description**: This project involves analyzing unemployment data to identify trends and patterns using various data analysis techniques.
+- **Technologies Used**: Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
+- **Objective**: The objective of this project is to gain insights into unemployment trends, identify key factors affecting unemployment rates, and visualize the data to better understand the underlying patterns and relationships.
 
 
 
