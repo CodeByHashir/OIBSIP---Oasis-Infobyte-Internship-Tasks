@@ -31,6 +31,10 @@ This repository will contain all the related content for my internship projects,
 - **Technologies Used**: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook
 - **Objective**: The objective of this project is to build regression models to predict sales and analyze the impact of TV, Radio, and Newspaper advertising on sales. The project helps in understanding the importance of data-driven decisions in optimizing marketing strategies.
 
+### Project 5: Email Spam Detection
+- **Description**: This project focuses on identifying and classifying emails as spam or ham using machine learning algorithms.
+- **Technologies Used**: Python, Scikit-learn, Natural Language Processing (NLP), Pandas, NumPy, Jupyter Notebook
+- **Objective**: The objective of this project is to build a model that can accurately detect spam emails by analyzing their content and metadata. This project helps in understanding the practical applications of NLP and machine learning in text classification tasks.
 
 **Explore the Notebooks**:
    Open the Jupyter Notebooks to explore the data analysis and model development:
