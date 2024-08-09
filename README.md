@@ -21,15 +21,18 @@ This repository will contain all the related content for my internship projects,
 - **Technologies Used**: Python, Pandas, Matplotlib, Seaborn, Scikit-learn
 - **Objective**: To understand and implement regression modeling techniques.
 
-### Project 2: Unemployment Analysis
+### Project 3: Unemployment Analysis
 - **Description**: This project involves analyzing unemployment data to identify trends and patterns using various data analysis techniques.
 - **Technologies Used**: Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
 - **Objective**: The objective of this project is to gain insights into unemployment trends, identify key factors affecting unemployment rates, and visualize the data to better understand the underlying patterns and relationships.
 
+### Project 4: Sales Prediction Using Advertising Data
+- **Description**: This project focuses on predicting sales figures based on advertising expenditures across different media channels using the Advertising.csv dataset.
+- **Technologies Used**: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook
+- **Objective**: The objective of this project is to build regression models to predict sales and analyze the impact of TV, Radio, and Newspaper advertising on sales. The project helps in understanding the importance of data-driven decisions in optimizing marketing strategies.
 
 
-
-4. **Explore the Notebooks**:
+**Explore the Notebooks**:
    Open the Jupyter Notebooks to explore the data analysis and model development:
    ```bash
    jupyter notebook notebooks/
